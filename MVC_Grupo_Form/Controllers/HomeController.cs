@@ -38,9 +38,13 @@ namespace MVC_Grupo_Form.Controllers
             return View();
         }
 
+        public IActionResult ConsultaEnviada(){
+            return View();
+        }
+
         [HttpPost]
         public IActionResult EnviarContacto(string nombre, string mail, string consulta) {
-            return RedirectToAction("Index");
+            return RedirectToAction("ConsultaEnviada");
         }
     }
 }

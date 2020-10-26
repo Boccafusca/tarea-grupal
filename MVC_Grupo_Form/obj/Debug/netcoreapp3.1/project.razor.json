@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\Views\\Home\\ConsultaEnviada.cshtml",
+      "TargetPath": "Views\\Home\\ConsultaEnviada.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
