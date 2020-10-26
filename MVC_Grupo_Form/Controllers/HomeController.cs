@@ -33,5 +33,14 @@ namespace MVC_Grupo_Form.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Contacto(){
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult EnviarContacto(string nombre, string mail, string consulta) {
+            return RedirectToAction("Index");
+        }
     }
 }

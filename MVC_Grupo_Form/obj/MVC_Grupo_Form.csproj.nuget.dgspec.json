@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj": {}
+    "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj": {
+    "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
+        "projectUniqueName": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
         "projectName": "MVC_Grupo_Form",
-        "projectPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
+        "projectPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
         "packagesPath": "C:\\Users\\Luciana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\MVC_Grupo_Form\\obj\\",
+        "outputPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luciana\\AppData\\Roaming\\NuGet\\NuGet.Config"
