@@ -21,7 +21,6 @@ C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\D
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorCoreGenerate.cache
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacto.cshtml.g.cs
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -37,3 +36,4 @@ C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\D
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.genruntimeconfig.cache
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.csproj.CopyComplete
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultaEnviada.cshtml.g.cs
+C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs

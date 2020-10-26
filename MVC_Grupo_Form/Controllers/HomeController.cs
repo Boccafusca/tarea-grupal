@@ -44,6 +44,9 @@ namespace MVC_Grupo_Form.Controllers
 
         [HttpPost]
         public IActionResult EnviarContacto(string nombre, string mail, string consulta) {
+            this.ViewBag.Nombre = nombre;
+            this.ViewBag.Mail = mail;
+            this.ViewBag.Consulta = consulta;
             return RedirectToAction("ConsultaEnviada");
         }
     }
