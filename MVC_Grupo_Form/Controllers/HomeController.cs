@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Net.Mail;
+using System.Net;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -45,6 +47,11 @@ namespace MVC_Grupo_Form.Controllers
             this.ViewBag.Nombre = nombre;
             this.ViewBag.Mail = mail;
             this.ViewBag.Consulta = consulta;
+            
+            MailSender mailSender = new MailSender();
+
+            mailSender.SendMail(nombre, mail);
+
             return View("ConsultaEnviada");
         }
     }
