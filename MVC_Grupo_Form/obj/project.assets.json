@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Luciana\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ComIT\\C#\\Grupo compartido\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
       "projectName": "MVC_Grupo_Form",
-      "projectPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
-      "packagesPath": "C:\\Users\\Luciana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luciana\\Desktop\\Cosas\\.Net\\Ejercicios\\tarea-grupal\\MVC_Grupo_Form\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\ComIT\\C#\\Grupo compartido\\tarea-grupal\\MVC_Grupo_Form\\MVC_Grupo_Form.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\ComIT\\C#\\Grupo compartido\\tarea-grupal\\MVC_Grupo_Form\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Luciana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

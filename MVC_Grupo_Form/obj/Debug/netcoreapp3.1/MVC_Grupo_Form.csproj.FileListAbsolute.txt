@@ -37,3 +37,42 @@ C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\D
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.csproj.CopyComplete
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultaEnviada.cshtml.g.cs
 C:\Users\Luciana\Desktop\Cosas\.Net\Ejercicios\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.exe
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.deps.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.runtimeconfig.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.dll
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.pdb
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.Views.dll
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\bin\Debug\netcoreapp3.1\MVC_Grupo_Form.Views.pdb
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.TagHelpers.input.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.TagHelpers.output.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\ConsultaEnviada.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacto.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.Views.pdb
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Grupo_Form.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Grupo_Form.StaticWebAssets.xml
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.dll
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.pdb
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ComIT\C#\Grupo compartido\tarea-grupal\MVC_Grupo_Form\obj\Debug\netcoreapp3.1\MVC_Grupo_Form.csproj.CopyComplete

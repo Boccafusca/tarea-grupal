@@ -44,14 +44,39 @@ namespace MVC_Grupo_Form.Controllers
 
         [HttpPost]
         public IActionResult EnviarContacto(string nombre, string mail, string consulta) {
+
+
+                try
+                {
+                    MailMessage correo= new MailMessage();
+                    correo.From=new MailAddress("grupo1comit@gmail.com");
+                    correo.To.Add(mail);
+                    correo.Body= consulta;
+                    correo.IsBodyHtml= true;
+                    correo.Priority= MailPriority.Normal;
+                    SmtpClient smtp= new SmtpClient();
+                    smtp.Host= "smtp.gmail.com";
+                    smtp.Port=25;
+                    smtp.EnableSsl=true;
+                    smtp.UseDefaultCredentials=true;
+                    string scuentaCorreo="grupo1comit@gmail.com";
+                    string sPasswordCorreo="grupo1com";
+                    smtp.Credentials= new System.Net.NetworkCredential(scuentaCorreo,sPasswordCorreo);
+                    smtp.Send(correo);
+                    ViewBag.Mensaje= "Mensaje enviado correctamente";
+
+                }
+                catch (Exception ex)
+                {
+                    
+                    ViewBag.Error= ex.Message;
+                }
+
             this.ViewBag.Nombre = nombre;
             this.ViewBag.Mail = mail;
             this.ViewBag.Consulta = consulta;
             
-            MailSender mailSender = new MailSender();
-
-            mailSender.SendMail(nombre, mail);
-
+        
             return View("ConsultaEnviada");
         }
     }
